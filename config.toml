@@ -1,0 +1,4 @@
+project_id = "hsrieowecanuwmmuodwt"
+
+[functions.notify-donors]
+verify_jwt = false
